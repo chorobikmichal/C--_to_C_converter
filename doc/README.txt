@@ -1,6 +1,5 @@
 Michal Chorobik (0937145)
 mchorobi@mail.ouguelph.ca 
-CIS*2750 Assignment1
 January 29,2017
 
 Compilation:
