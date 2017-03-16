@@ -14,3 +14,44 @@ but ending with a .c insted of .cc. That file will also be located in programs m
 Known limitations:
 You can't input any file names of files that dont exist
 You can't leave the sapace for the name of the program blank. You have to give it a name of a file
+
+EXAMPLE
+C++ CODE before convertion:
+
+#include<stdio.h>
+#include<stdlib.h>
+
+class A {
+   int a;
+};
+
+/* reference a class variable */
+
+int main(int argc, char *argv[]) {
+class A myA;
+   myA.a = 3;
+   if (myA.a == 3)
+      return(0);
+   else
+      return(1);
+}
+
+AFTER THE CONVERTION:
+
+#include<stdio.h>
+#include<stdlib.h>
+
+struct A {
+   int a;
+};
+/* reference a class variable */
+
+int main(int argc, char *argv[]) {
+struct A myA;
+constructorA(&myA);
+   myA.a = 3;
+   if (myA.a == 3)
+      return(0);
+   else
+      return(1);
+}
