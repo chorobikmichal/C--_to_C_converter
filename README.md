@@ -3,7 +3,7 @@ mchorobi@mail.ouguelph.ca
 January 29,2017
 
 Compilation:
-run the Makefile command
+run the make command
 
 Usage:
 To use this program input the name of a C++ file the you want converted into C. In order to do that after compiling 
