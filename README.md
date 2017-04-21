@@ -1,6 +1,3 @@
-Michal Chorobik
-January 29,2017
-
 ## C++ to C converter
 
 Compilation:
