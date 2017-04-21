@@ -13,4 +13,7 @@ Known limitations:
 You can't input any file names of files that dont exist
 You can't leave the sapace for the name of the program blank. You have to give it a name of a file
 
+# Examples:
+# Before conversion and After conversion
 
+# Before conversion and After conversion
