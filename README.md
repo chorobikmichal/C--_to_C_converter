@@ -1,6 +1,7 @@
-Michal Chorobik (0937145)
-mchorobi@mail.ouguelph.ca 
+Michal Chorobik
 January 29,2017
+
+## C++ to C converter
 
 Compilation:
 run the make command
